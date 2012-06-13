@@ -10,4 +10,5 @@ group :test, :development do
   gem "rspec", "~> 2.10.0"
   gem "capybara", "~> 1.1.2"
   gem "fakeweb", "~> 1.3.0"
+  gem "gollum", "~> 2.0.0"
 end
