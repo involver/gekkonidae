@@ -1,0 +1,2 @@
+graphite_server: graphite.example.com
+api_key: EXAMPLEKEY123
